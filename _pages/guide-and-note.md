@@ -12,7 +12,7 @@ redirect_from:
 
 HPC Note
 ------
-[Link to github repo](https://github.com/XiaoSong9905/HPC-Notes)
+[Link to github repo](https://github.com/XiaoSongXS/HPC-Notes)
 * Personal note / guide on HPC
 
 
@@ -20,6 +20,6 @@ HPC Note
 
 CUDA Optimization Guide
 ------
-[Link to github repo](https://github.com/XiaoSong9905/CUDA-Optimization-Guide)
+[Link to github repo](https://github.com/XiaoSongXS/CUDA-Optimization-Guide)
 * Personal note, guide, and experience on optimizing CUDA
 

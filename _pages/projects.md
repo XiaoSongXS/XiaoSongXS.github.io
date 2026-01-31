@@ -12,7 +12,7 @@ redirect_from:
 
 DGEMM on Cori KNL Node (C++, AVX2, AVX512)
 ------
-[Link to github repo](https://github.com/XiaoSong9905/dgemm-knl)
+[Link to github repo](https://github.com/XiaoSongXS/dgemm-knl)
 * Implement DGEMM on Intel Cori Node. Achieve average of 75% MKL performance on single core.
 * Use AVX512 inline assembly for embedded broadcast, increase theoratical peak from 22.4 to 44.8 GFLOPs.
 * Mix use of AVX2 & AVX512 for 8x8 matrix transpose, reduce the pressure on load port. Incr 0.4% peak perf.
